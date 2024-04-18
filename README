@@ -1,0 +1,8 @@
+Bity / Bitypreço simple API access.
+
+Oficial docs:
+https://bitypreco.com/api
+https://apidocs.bitpreco.com
+
+Create your auth token at https://market.bitpreco.com/profile/security
+Then configure your .env file

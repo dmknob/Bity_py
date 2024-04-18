@@ -10,10 +10,10 @@ url = "https://api.bitpreco.com/v1/trading"
 
 payload={'cmd': 'buy',
 'auth_token': auth_token,
-'market': 'usdt-brl',
-'price': '5.0521',
+'market': 'btc-brl',
+'price': '316001',
 'volume': '',
-'amount': '100',
+'amount': '0.00210000',
 'limited': 'true'}
 files=[
 
